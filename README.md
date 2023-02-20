@@ -28,6 +28,12 @@ I recommend not attaching the camera mount plate to the box. I undersized the mo
 
 I also cut a 1/4" vent on the front just below the roof to allow for some circulation. I used a 1/2" straight bit on the router table, but a jigsaw, coping saw, or chisel would also work.
 
+## Floor
+I recommend you make some accommodation for drainage in the floor. While the box itself should be reasonably water tight, it might get water sogged during a long rain. I cut a 45 degree about 1/2" in from each corner of the floor. Alternatively, you could drill holes in the corners - a 3/8" hole should suffice.
+
+## Ventilation
+If you live in an area where it gets warm during nesting season, or if the box is subject to direct exposure to afternoon sun, you might want to add some ventilation to the sides of the box. This could be a 1/4" slot in each side just below the camera mount, or a series of holes.
+
 ## 3D Printed Parts
 
 I have included .STP and .STL files for the 3D printed parts. These are optional. You can buy hardware or fabricate them from wood instead.
